@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello, folks! 👋
 
-<!--
-**ChernovSO/ChernovSO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I am a novice Data Scientist with a passion for learning and exploring new ideas<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[My homework projects](https://github.com/ChernovSO/My_homework_projects)
+
+
+You can find me: 
+
+<a href="https://t.me/ChernovSO">
+  <img align="left" alt="tg" width="22px" src="https://icons.bootstrap-4.ru/assets/icons/telegram.svg" />
+</a>
+<a href="mailto:Chernov.S.O@yandex.ru">
+  <img align="left" alt="tg" width="22px" src="https://getbootstrap.ru/docs/icons/assets/icons/envelope.svg" />
+</a>
+
+
+---
+
